@@ -5,7 +5,7 @@ Afghanistan,Country Not In Rural List,AF
 Albania,Albania,AL
 Algeria,Country Not In Rural List,DZ
 American Samoa,Country Not In Rural List,AS
-Andorra,Andorra,AD
+Andorra,Andorra*,AD
 Angola,Country Not In Rural List,AO
 Anguilla,Country Not In Rural List,AI
 Antigua & Barbuda,Antigua and Barbuda,AG
@@ -27,7 +27,7 @@ Bermuda,Country Not In Rural List,BM
 Bhutan,Country Not In Rural List,BT
 Bolivia,Bolivia,BO
 Bonaire,"Bonaire, Sint Eustatius and Saba",BQ
-Bosnia-Herzegovina,Country Not In Rural List,BA
+Bosnia-Herzegovina,Bosnia and Herzegovina,BA
 Botswana,Country Not In Rural List,BW
 Brazil,Brazil,BR
 British Virgin Islands,British Virgin Islands,VG
@@ -106,7 +106,7 @@ Laos,Country Not In Rural List,LA
 Latvia,Country Not In Rural List,LV
 Lebanon,Country Not In Rural List,LB
 Lesotho,Country Not In Rural List,LS
-Liberia,Liberia,LR
+Liberia,Country Not In Rural List,LR
 Libya,Country Not In Rural List,LY
 Liechtenstein,Country Not In Rural List,LI
 Lithuania,Country Not In Rural List,LT
@@ -191,7 +191,7 @@ U.S. Virgin Islands,Virgin Islands (U.S.),VI
 Uganda,Country Not In Rural List,UG
 Ukraine,Ukraine,UA
 United Arab Emirates,United Arab Emirates,AE
-United Kingdom,Country Not In Rural List,GB
+United Kingdom,Great Britain (UK),GB
 Uruguay,Country Not In Rural List,UY
 Uzbekistan,Uzbekistan,UZ
 Vanuatu,Vanuatu,VU
